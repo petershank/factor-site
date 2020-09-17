@@ -1,2 +1,2 @@
 # factor-site
-a website for practicing prime factorization in your head
+An awesome website for practicing prime factorization in your head
